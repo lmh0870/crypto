@@ -1,5 +1,5 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Coin from "./Coin";
+import Coin from "./Coin/index";
 import Home from "./Home";
 
 function Router() {
